@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+I created a recipe app using Flutter while following a course on Udemy by Academind. The app features a wide variety of meals to choose from, and allows users to select their desired meal to view its recipe. Additionally, the app includes a filter page, where users can set filters to view specific types of meals. This feature enables users to easily find recipes that meet their dietary preferences and requirements. Overall, the app is a helpful tool for anyone looking to explore new recipes or find meals that suit their specific needs.
 
 ## Getting Started
 
